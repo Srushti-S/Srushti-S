@@ -1,4 +1,4 @@
-# Hi, I'm Srushti Sonavane  👋
+<h1 align="center"> Hi, I'm Srushti Sonavane 👋<\h1>
 
 
 <h3 align="center">I am a junior at PICT, Pune

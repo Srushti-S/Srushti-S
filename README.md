@@ -4,10 +4,10 @@
 </h3>
 
 
-## Technology Stack:
+### Technology Stack:
 
 
-<img align="left" alt="Java" widht="10px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
+<img align="left" alt="Java" widht="1px" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"/>
 
 
 <!--

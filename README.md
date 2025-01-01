@@ -18,11 +18,6 @@
 
 </div>
 
-<div style="flex: 1;">
-  <img src="https://github.com/user-attachments/assets/953277c6-86dc-4ef0-ad9c-10e38923dc26" alt="Tech-Savvy Illustration" width="300px" style="border-radius:10px;"/>
-</div>
-
-</div>
 ---
 
 ### Tools I'm Versed With:

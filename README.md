@@ -1,20 +1,22 @@
 <h1 align="center"> Hi, I'm Srushti Sonavane 👋</h1>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/953277c6-86dc-4ef0-ad9c-10e38923dc26" alt="Tech-Savvy Illustration" width="400px" style="border-radius:10px;"/>
-</div>
-
 <h3 align="center">I am a graduate student majoring in Computer Science at Indiana University Bloomington</h3>
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-<div style="flex: 1;">
+  <!-- Left Content -->
+  <div style="flex: 1; padding-right: 20px;">
+    - 🎓 I'm a tech enthusiast with a keen interest in **software development**, **machine learning**, and **research**.<br>
+    - 🤖 I’m currently focused on building full-stack development skills while diving into deep learning techniques for NLP and generative modeling.<br>
+    - 🎮 Apart from my academics, I love playing **chess**, sketching, reading, and listening to **music**.
+  </div>
 
-- 🎓 I'm a tech enthusiast with a keen interest in **software development**, **machine learning**, and **research**.
-- 🤖 I’m currently focused on building full-stack development skills while diving into deep learning techniques for NLP and generative modeling.
-- 🎮 Apart from my academics, I love playing **chess**, sketching, reading, and listening to **music**.
+  <!-- Right Image -->
+  <div style="flex: 1; text-align: right;">
+    <img src="https://github.com/user-attachments/assets/953277c6-86dc-4ef0-ad9c-10e38923dc26" alt="Tech-Savvy Illustration" width="300px" style="border-radius:10px;">
+  </div>
 
 </div>
 

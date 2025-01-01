@@ -9,7 +9,7 @@
   <div style="flex: 1; padding-right: 20px;">
     <p>
       🎓 I'm a tech enthusiast with a keen interest in software development, machine learning, and research.<br>
-      🤖 I’m currently focused on building full-stack development skills while diving into deep learning techniques for NLP and generative modeling.<br>
+      🤖 I’m currently focused on building web development skills while diving into deep learning techniques for NLP and generative modeling.<br>
       🎮 Apart from my academics, I love playing chess, sketching, reading, and listening to music.
     </p>
   </div>

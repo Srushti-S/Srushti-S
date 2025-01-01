@@ -1,13 +1,68 @@
 <h1 align="center"> Hi, I'm Srushti Sonavane 👋</h1>
 
 
-<h3 align="center">I am a Master's student majoring in Computer Science at Indiana University Bloomington
+<h3 align="center">I am a graduate student majoring in Computer Science at Indiana University Bloomington
 </h3>
 
+- 🎓 I'm a tech enthusiast with a keen interest in **software development**, **machine learning** and **research**.
+- 🤖 I’m currently focused on building full-stack development skills while diving into deep learning techniques for NLP and generative modeling.
+- 🎮 Apart from my academics, I love playing **chess**, sketching, reading, and listening to **music**.
 
-<h3 align="left">Technology Stack:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+### Technical Skills
 
+#### Libraries:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" />
+  <img src="https://img.icons8.com/color/48/000000/scipy.png" alt="SciPy" />
+  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="Scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Librosa_logo.png" alt="Librosa" width="48" height="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Apache_Spark_logo.svg" alt="PySpark" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/opencv.png" alt="OpenCV" />
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
+  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras" />
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" />
+</p>
+
+#### Frameworks:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
+  <img src="https://img.icons8.com/color/48/000000/flask.png" alt="Flask" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="48" height="48" />
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="48" height="48" />
+</p>
+
+---
+
+### Tools I'm Versed With:
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+  <img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png" alt="Hadoop" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+</p>
+
+---
+
+### Technologies That I Have Worked With:
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+  <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django" />
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" />
+  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

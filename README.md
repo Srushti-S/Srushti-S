@@ -3,23 +3,18 @@
 <h3 align="center">I am a graduate student majoring in Computer Science at Indiana University Bloomington</h3>
 
 ---
-<div style="display: flex; align-items: flex-start;">
-
-  <!-- Left Content -->
-  <div style="flex: 1; padding-right: 20px;">
-    <p>
-      🎓 I'm a tech enthusiast with a keen interest in software development, machine learning, and research.<br>
-      🤖 I’m currently focused on building web development skills while diving into deep learning techniques for NLP and generative modeling.<br>
-      🎮 Apart from my academics, I love playing chess, sketching, reading, and listening to music.
-    </p>
-  </div>
-
-  <!-- Right Image -->
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/953277c6-86dc-4ef0-ad9c-10e38923dc26" alt="Tech-Savvy Illustration" width="300px" style="border-radius:10px;">
-  </div>
-
-</div>
+<table style="border: none; border-collapse: collapse;">
+<tr>
+<td style="text-align: left; vertical-align: top; border: none;">
+🎓 I'm a tech enthusiast with a keen interest in software development, machine learning, and research.<br><br>
+🤖 I’m currently focused on building web development skills while diving into deep learning techniques for NLP and generative modeling.<br><br>
+🎮 Apart from my academics, I love playing chess, sketching, reading, and listening to music.
+</td>
+<td style="text-align: center; border: none;">
+<img src="https://github.com/user-attachments/assets/953277c6-86dc-4ef0-ad9c-10e38923dc26" alt="Tech-Savvy Illustration" width="300px" style="border-radius:10px;">
+</td>
+</tr>
+</table>
 
 ---
 

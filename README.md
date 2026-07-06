@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Srushti Sonavane 👋</h1>
-<h3 align="center">Graduate Student in Computer Science @ Indiana University Bloomington</h3>
+<h3 align="center">Software Engineer | MS Computer Science, Indiana University Bloomington</h3>
+<p align="center"><a href="https://srushtis.vercel.app">srushtis.vercel.app</a> · <a href="https://aclanthology.org/people/srushti-sonavane/">ACL Anthology</a> · <a href="https://linkedin.com/in/srushtis7">LinkedIn</a></p>
 
 ---
 
@@ -7,8 +8,8 @@
 <tr>
 <td style="text-align: left; vertical-align: top; border: none;">
 
-🎓 MS Computer Science student with production experience in full-stack development, backend systems, and applied machine learning.<br><br>
-🤖 Currently exploring deep learning for NLP, cybersecurity AI, and generative modeling — with published research at ACL Anthology.<br><br>
+🎓 MS in Computer Science from Indiana University Bloomington, with production experience in full-stack development, backend systems, and applied machine learning.<br><br>
+🤖 Researching agentic AI security at the DSAIL Lab, with published NLP research at ACL Anthology (first author, 2024).<br><br>
 🔐 Keen interest in AI security, adversarial ML, and building intelligent systems that are robust and interpretable.<br><br>
 🎮 Apart from academics, I love playing chess, sketching, reading, and listening to music.
 
